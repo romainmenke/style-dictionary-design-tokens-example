@@ -1,0 +1,28 @@
+{
+	"color": {
+		"font": {
+			"base": {
+				"value": "#111111"
+			},
+			"secondary": {
+				"value": "#333333"
+			},
+			"tertiary": {
+				"value": "#666666"
+			},
+			"inverse": {
+				"base": {
+					"value": "#ffffff"
+				}
+			}
+		}
+	},
+	"size": {
+		"font": {
+			"small" : { "value": "10" },
+			"medium": { "value": "16" },
+			"large" : { "value": "24" },
+			"base"  : { "value": "{size.font.medium.value}" }
+		}
+	}
+}

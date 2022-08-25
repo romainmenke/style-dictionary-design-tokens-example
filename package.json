@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Sample",
   "exports": {
-    "style-dictionary": "./style-dictionary.tokens.json"
+    "./style-dictionary.tokens.json": "./style-dictionary.tokens.json"
   },
   "repository": {
     "type": "git",

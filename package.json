@@ -1,6 +1,6 @@
 {
   "name": "style-dictionary-design-tokens-example",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Sample",
   "exports": {
     "./style-dictionary.tokens.json": "./style-dictionary.tokens.json"
